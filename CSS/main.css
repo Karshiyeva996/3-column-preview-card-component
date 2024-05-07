@@ -1,0 +1,70 @@
+@import url(./fonts.css);
+
+
+
+.card-text {
+    padding-bottom: 83px;
+}
+
+.card-title {
+    color: #F2F2F2;
+
+    font-family: "Big Shoulders Display";
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.card-text {
+    max-width: 212px;
+    width: 100%;
+    color: #FFF;
+
+    font-family: "Lexend Deca";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+}
+
+.bg-warning {
+    background-color: #E28625 !important;
+}
+
+.bg-success {
+    background-color: #006971 !important;
+}
+
+.bg-dark {
+    background-color: #004140 !important;
+}
+
+.btn {
+    color: #E28625 !important;
+    font-family: "Lexend Deca";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+}
+.color{
+    color: #004140 !important;
+    font-family: "Lexend Deca";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+
+} 
+
+.color-tex {
+    color: #006971 !important;
+    font-family: "Lexend Deca";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+
+}
+.btn:hover{
+    cursor: pointer;
+    color: #FFF !important;
+    background-color: transparent !important;
+    
+}

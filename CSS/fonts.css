@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Lexend Deca";
+    src: url(../fonts/Lexend_Deca/static/LexendDeca-Regular.ttf);
+    font-size: 400;
+} 
+
+
+@font-face {
+    font-family: "Big Shoulders Display";
+    src: url(../fonts/Big_Shoulders_Display/static/BigShouldersDisplay-Bold.ttf);
+    font-size: 700;
+}
